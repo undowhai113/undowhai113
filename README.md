@@ -1,16 +1,17 @@
 <div align="center">
   
-# 👋 Xin chào, tôi là Hải!
+# 👋 Hi there, I'm Hai!
 
 ### Full-Stack Developer | AI Integration Specialist
 
 [![GitHub undowhai113](https://img.shields.io/github/followers/undowhai113?label=follow&style=social)](https://github.com/undowhai113)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hải-nguyễn-văn-481066381)
 
 </div>
 
 ---
 
-## 👨‍💻 Về tôi
+## 👨‍💻 About Me
 
 <div align="center">
 
@@ -18,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Hiện tại
+### 🚀 Currently
 - 💼 Full-Stack Developer
 - 🤖 AI Integration Specialist
 - 🛡️ Security Tools Builder
@@ -27,7 +28,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Đam mê
+### 🎯 Passionate About
 - ⚡ Enterprise Applications
 - 🧠 RAG Systems & Vector Search
 - 🔐 Security & Compliance
@@ -136,11 +137,12 @@
 
 ---
 
-## 📫 Liên hệ
+## 📫 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvanhai.01256@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hải-nguyễn-văn-481066381)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undowhai113)
 
 </div>
