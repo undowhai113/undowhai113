@@ -12,15 +12,20 @@
 
 ## 👨‍💻 Về tôi
 
-```typescript
-const developer = {
-  name: "Nguyễn Văn Hải",
-  username: "undowhai113",
-  location: "Vietnam",
-  focus: ["Full-Stack Development", "AI Integration", "Security Tools"],
-  currentlyWorking: ["RAG Systems", "Vector Search", "Enterprise Applications"]
-};
-```
+<table>
+<tr>
+<td>
+
+- 🔭 **Full-Stack Developer** với kinh nghiệm xây dựng ứng dụng web hiện đại
+- 🤖 Đam mê **AI Integration** và **RAG Systems** với Vector Search
+- 🛡️ Phát triển **Security Tools** và Compliance Scanning
+- 🌱 Hiện đang làm việc với **Next.js, TypeScript, MongoDB, Google Gemini API**
+- 💼 Chuyên về **Enterprise Applications** và **Real-time Systems**
+- 📍 Đến từ **Vietnam** 🇻🇳
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,10 +93,24 @@ const developer = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=undowhai113&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=undowhai113&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=undowhai113&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=undowhai113&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undowhai113&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undowhai113&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undowhai113&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undowhai113&theme=tokyonight" alt="Profile Summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=undowhai113&theme=tokyonight" alt="Repos per Language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=undowhai113&theme=tokyonight" alt="Most Commit Language" width="49%" />
 
 </div>
 
