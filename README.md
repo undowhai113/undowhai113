@@ -12,20 +12,34 @@
 
 ## 👨‍💻 Về tôi
 
+<div align="center">
+
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-- 🔭 **Full-Stack Developer** với kinh nghiệm xây dựng ứng dụng web hiện đại
-- 🤖 Đam mê **AI Integration** và **RAG Systems** với Vector Search
-- 🛡️ Phát triển **Security Tools** và Compliance Scanning
-- 🌱 Hiện đang làm việc với **Next.js, TypeScript, MongoDB, Google Gemini API**
-- 💼 Chuyên về **Enterprise Applications** và **Real-time Systems**
-- 📍 Đến từ **Vietnam** 🇻🇳
+### 🚀 Hiện tại
+- 💼 Full-Stack Developer
+- 🤖 AI Integration Specialist
+- 🛡️ Security Tools Builder
+- 📍 Vietnam 🇻🇳
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Đam mê
+- ⚡ Enterprise Applications
+- 🧠 RAG Systems & Vector Search
+- 🔐 Security & Compliance
+- 🌐 Real-time Systems
 
 </td>
 </tr>
 </table>
+
+**🔭 Tech Focus:** Next.js • TypeScript • MongoDB • Google Gemini API • Docker
+
+</div>
 
 ---
 
@@ -92,12 +106,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=undowhai113&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=undowhai113&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undowhai113&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=undowhai113&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="49%" />
+<a href="https://github.com/undowhai113">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=undowhai113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=undowhai113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=undowhai113&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undowhai113&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 
 </div>
 
@@ -111,6 +128,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=undowhai113&theme=tokyonight" alt="Repos per Language" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=undowhai113&theme=tokyonight" alt="Most Commit Language" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=undowhai113&theme=tokyonight" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=undowhai113&theme=tokyonight&utcOffset=7" alt="Productive Time" width="49%" />
 
 </div>
 
