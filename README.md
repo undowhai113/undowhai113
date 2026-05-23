@@ -5,6 +5,7 @@
 ### Full-Stack Developer | AI Integration Specialist
 
 [![GitHub undowhai113](https://img.shields.io/github/followers/undowhai113?label=follow&style=social)](https://github.com/undowhai113)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=googlechrome&logoColor=white)](https://undowhai.id.vn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hải-nguyễn-văn-481066381)
 
 </div>
@@ -21,6 +22,7 @@
 
 ### 🚀 Currently
 - 💼 Full-Stack Developer
+- 🌐 Portfolio: [undowhai.id.vn](https://undowhai.id.vn)
 - 🤖 AI Integration Specialist
 - 🛡️ Security Tools Builder
 - 📍 Vietnam 🇻🇳
@@ -142,6 +144,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvanhai.01256@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://undowhai.id.vn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hải-nguyễn-văn-481066381)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undowhai113)
 
