@@ -18,29 +18,90 @@
 
 ## `01 / PROFILE`
 
-> I build at the intersection of **backend engineering**, **cybersecurity**, **AI systems**, and **creative development** — translating complex ideas into reliable products, resilient infrastructure, and intentional digital experiences.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Systems, security & intelligent software
+
+I build at the intersection of **backend engineering**, **cybersecurity**, **AI systems**, and **creative development** — translating complex ideas into reliable products, resilient infrastructure, and intentional digital experiences.
 
 From production APIs and real-time workflows to threat-intelligence platforms and retrieval pipelines, I care about how every component behaves **as one complete system**, not merely how each part works in isolation.
 
-```text
-hai@systems:~$ whoami
-backend engineer / security builder / applied-ai explorer
+</td>
+<td width="42%" valign="top">
 
-hai@systems:~$ operating_from
-Vietnam  ·  UTC+7
+```console
+$ whoami
+backend engineer
+security builder
+applied-ai explorer
 
-hai@systems:~$ mission
-ship useful systems with technical depth and a distinct point of view
+$ location
+Vietnam · UTC+7
+
+$ principle
+build with depth
+ship with intent
 ```
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ENGINEERING-SYSTEMS-111827?style=flat-square&labelColor=312E81&color=111827" alt="Engineering systems" />
+  <img src="https://img.shields.io/badge/SECURITY-BY_DESIGN-111827?style=flat-square&labelColor=4C1D95&color=111827" alt="Security by design" />
+  <img src="https://img.shields.io/badge/AI-APPLIED-111827?style=flat-square&labelColor=5B21B6&color=111827" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/CREATIVE-ENGINEERING-111827?style=flat-square&labelColor=6D28D9&color=111827" alt="Creative engineering" />
+</p>
 
 ---
 
 ## `02 / CURRENT ORBIT`
 
-- **Backend & distributed services** — APIs, authentication, event-driven workflows, real-time communication, and service orchestration.
-- **Security engineering** — threat-intelligence platforms, compliance automation, secure architecture, and practical security tooling.
-- **Applied AI systems** — RAG, embeddings, vector search, document intelligence, and model-agnostic LLM integration.
-- **Creative engineering** — expressive web experiences where interaction, motion, typography, and performance work together.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `BACKEND / SYSTEMS`
+
+APIs, authentication, event-driven workflows, real-time communication, service orchestration, and production architecture.
+
+`REST` · `WebSocket` · `SSE` · `Distributed Services`
+
+</td>
+<td width="50%" valign="top">
+
+### `SECURITY / INTELLIGENCE`
+
+Threat-intelligence platforms, compliance automation, secure architecture, system hardening, and practical security tooling.
+
+`OpenCTI` · `CIS-CAT` · `AuthN/AuthZ` · `Compliance`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `APPLIED AI / RETRIEVAL`
+
+RAG systems, embeddings, vector search, document intelligence, and provider-agnostic LLM integration.
+
+`RAG` · `Embeddings` · `Vector Search` · `Document AI`
+
+</td>
+<td width="50%" valign="top">
+
+### `CREATIVE / INTERACTION`
+
+Expressive web experiences where motion, typography, interaction, accessibility, and performance work as one language.
+
+`Next.js` · `GSAP` · `UI Systems` · `Performance`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <code>BUILD</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>OBSERVE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SECURE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>REFINE</code>
@@ -56,30 +117,133 @@ ship useful systems with technical depth and a distinct point of view
 
 </div>
 
-### Systems I work with
+<br />
 
-- **Application layer:** `Next.js` · `React` · `Node.js` · `Express` · `Flask`
-- **Data & search:** `MongoDB` · `Elasticsearch` · `Redis` · `Vector Search`
-- **Messaging & storage:** `RabbitMQ` · `MinIO` · `WebSocket` · `SSE`
-- **Security platform:** `OpenCTI` · `CIS-CAT` · compliance scanning · authentication & authorization
-- **Platform engineering:** `Docker` · `Docker Compose` · `PM2` · `Vercel` · `Render`
-- **AI engineering:** retrieval pipelines · embeddings · document processing · provider-agnostic LLM integration
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### `APPLICATION`
+
+Next.js<br />
+React<br />
+Node.js<br />
+Express<br />
+Flask
+
+</td>
+<td width="33%" valign="top">
+
+#### `DATA & SEARCH`
+
+MongoDB<br />
+Elasticsearch<br />
+Redis<br />
+Vector Search<br />
+Embeddings
+
+</td>
+<td width="34%" valign="top">
+
+#### `MESSAGING & STORAGE`
+
+RabbitMQ<br />
+MinIO<br />
+WebSocket<br />
+SSE<br />
+Document Pipelines
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### `SECURITY`
+
+OpenCTI<br />
+CIS-CAT<br />
+JWT / OAuth<br />
+Compliance Scanning<br />
+System Hardening
+
+</td>
+<td width="33%" valign="top">
+
+#### `PLATFORM`
+
+Docker<br />
+Docker Compose<br />
+Linux<br />
+PM2<br />
+Vercel / Render
+
+</td>
+<td width="34%" valign="top">
+
+#### `AUTOMATION`
+
+Bash<br />
+PowerShell<br />
+Groovy<br />
+PDF / DOCX / Excel<br />
+Testing & CI workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `04 / ENGINEERING RANGE`
 
-**Product Engineering**  
-Full-stack delivery, RESTful APIs, responsive interfaces, accessible UI systems, testing, and production deployment.
+<table>
+<tr>
+<td width="24%" align="center" valign="middle">
 
-**Security & Infrastructure**  
-JWT, OAuth, bcrypt, containerized services, threat-intelligence infrastructure, system hardening, and compliance workflows.
+### `PRODUCT`
 
-**Data, Documents & Automation**  
-PDF, DOCX, and spreadsheet processing; search and retrieval pipelines; scripting with Bash, PowerShell, and Groovy.
+Full-stack delivery<br />
+APIs & interfaces<br />
+Testing & deployment
 
-**How I think**  
-Security is a design constraint. Performance is a product feature. Infrastructure is part of the application. Good engineering should feel deliberate.
+</td>
+<td width="24%" align="center" valign="middle">
+
+### `SYSTEMS`
+
+Service architecture<br />
+Real-time flows<br />
+Infrastructure
+
+</td>
+<td width="24%" align="center" valign="middle">
+
+### `SECURITY`
+
+Secure-by-design<br />
+Threat intelligence<br />
+Compliance
+
+</td>
+<td width="28%" align="center" valign="middle">
+
+### `INTELLIGENCE`
+
+RAG pipelines<br />
+Document processing<br />
+Applied AI
+
+</td>
+</tr>
+</table>
+
+> **Security is a design constraint. Performance is a product feature. Infrastructure is part of the application. Good engineering should feel deliberate.**
+
+<div align="center">
+
+`not just shipping features — designing systems that remain understandable under pressure`
+
+</div>
 
 ---
 
