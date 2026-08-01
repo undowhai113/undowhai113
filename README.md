@@ -18,231 +18,45 @@
 
 ## `01 / PROFILE`
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### Systems, security & intelligent software
-
-I build at the intersection of **backend engineering**, **cybersecurity**, **AI systems**, and **creative development** — translating complex ideas into reliable products, resilient infrastructure, and intentional digital experiences.
-
-From production APIs and real-time workflows to threat-intelligence platforms and retrieval pipelines, I care about how every component behaves **as one complete system**, not merely how each part works in isolation.
-
-</td>
-<td width="42%" valign="top">
-
-```console
-$ whoami
-backend engineer
-security builder
-applied-ai explorer
-
-$ location
-Vietnam · UTC+7
-
-$ principle
-build with depth
-ship with intent
-```
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ENGINEERING-SYSTEMS-111827?style=flat-square&labelColor=312E81&color=111827" alt="Engineering systems" />
-  <img src="https://img.shields.io/badge/SECURITY-BY_DESIGN-111827?style=flat-square&labelColor=4C1D95&color=111827" alt="Security by design" />
-  <img src="https://img.shields.io/badge/AI-APPLIED-111827?style=flat-square&labelColor=5B21B6&color=111827" alt="Applied AI" />
-  <img src="https://img.shields.io/badge/CREATIVE-ENGINEERING-111827?style=flat-square&labelColor=6D28D9&color=111827" alt="Creative engineering" />
-</p>
+<div align="center">
+  <img src="./assets/profile/01-profile-dossier.svg" width="100%" alt="System dossier — backend engineering, cybersecurity, applied AI, and creative technology" />
+</div>
 
 ---
 
 ## `02 / CURRENT ORBIT`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `BACKEND / SYSTEMS`
-
-APIs, authentication, event-driven workflows, real-time communication, service orchestration, and production architecture.
-
-`REST` · `WebSocket` · `SSE` · `Distributed Services`
-
-</td>
-<td width="50%" valign="top">
-
-### `SECURITY / INTELLIGENCE`
-
-Threat-intelligence platforms, compliance automation, secure architecture, system hardening, and practical security tooling.
-
-`OpenCTI` · `CIS-CAT` · `AuthN/AuthZ` · `Compliance`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `APPLIED AI / RETRIEVAL`
-
-RAG systems, embeddings, vector search, document intelligence, and provider-agnostic LLM integration.
-
-`RAG` · `Embeddings` · `Vector Search` · `Document AI`
-
-</td>
-<td width="50%" valign="top">
-
-### `CREATIVE / INTERACTION`
-
-Expressive web experiences where motion, typography, interaction, accessibility, and performance work as one language.
-
-`Next.js` · `GSAP` · `UI Systems` · `Performance`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <code>BUILD</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>OBSERVE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SECURE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>REFINE</code>
-</p>
+<div align="center">
+  <img src="./assets/profile/02-current-orbit.svg" width="100%" alt="Current orbit — backend systems, security intelligence, applied AI, and creative interaction" />
+</div>
 
 ---
 
 ## `03 / TOOLKIT`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,nextjs,react,tailwind,nodejs,express,flask,mongodb,redis,docker,linux,bash,git,github,vercel&perline=9" alt="Core engineering toolkit" />
-
+  <img src="./assets/profile/03-toolkit-matrix.svg" width="100%" alt="Toolkit matrix — application, data, messaging, security, platform, and automation" />
 </div>
 
+<details>
+<summary><b>Open the full technology inventory</b></summary>
 <br />
 
-<table>
-<tr>
-<td width="33%" valign="top">
+`Application` — Next.js · React · TypeScript · Node.js · Express · Flask<br />
+`Data & Search` — MongoDB · Elasticsearch · Redis · Vector Search · Embeddings<br />
+`Messaging & Storage` — RabbitMQ · MinIO · WebSocket · SSE · Document Pipelines<br />
+`Security` — OpenCTI · CIS-CAT · JWT · OAuth · Compliance Scanning · System Hardening<br />
+`Platform` — Docker · Docker Compose · Linux · PM2 · Vercel · Render<br />
+`Automation` — Bash · PowerShell · Groovy · PDF/DOCX/Excel · Testing · CI Workflows
 
-#### `APPLICATION`
-
-Next.js<br />
-React<br />
-Node.js<br />
-Express<br />
-Flask
-
-</td>
-<td width="33%" valign="top">
-
-#### `DATA & SEARCH`
-
-MongoDB<br />
-Elasticsearch<br />
-Redis<br />
-Vector Search<br />
-Embeddings
-
-</td>
-<td width="34%" valign="top">
-
-#### `MESSAGING & STORAGE`
-
-RabbitMQ<br />
-MinIO<br />
-WebSocket<br />
-SSE<br />
-Document Pipelines
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-#### `SECURITY`
-
-OpenCTI<br />
-CIS-CAT<br />
-JWT / OAuth<br />
-Compliance Scanning<br />
-System Hardening
-
-</td>
-<td width="33%" valign="top">
-
-#### `PLATFORM`
-
-Docker<br />
-Docker Compose<br />
-Linux<br />
-PM2<br />
-Vercel / Render
-
-</td>
-<td width="34%" valign="top">
-
-#### `AUTOMATION`
-
-Bash<br />
-PowerShell<br />
-Groovy<br />
-PDF / DOCX / Excel<br />
-Testing & CI workflows
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 ## `04 / ENGINEERING RANGE`
 
-<table>
-<tr>
-<td width="24%" align="center" valign="middle">
-
-### `PRODUCT`
-
-Full-stack delivery<br />
-APIs & interfaces<br />
-Testing & deployment
-
-</td>
-<td width="24%" align="center" valign="middle">
-
-### `SYSTEMS`
-
-Service architecture<br />
-Real-time flows<br />
-Infrastructure
-
-</td>
-<td width="24%" align="center" valign="middle">
-
-### `SECURITY`
-
-Secure-by-design<br />
-Threat intelligence<br />
-Compliance
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-### `INTELLIGENCE`
-
-RAG pipelines<br />
-Document processing<br />
-Applied AI
-
-</td>
-</tr>
-</table>
-
-> **Security is a design constraint. Performance is a product feature. Infrastructure is part of the application. Good engineering should feel deliberate.**
-
 <div align="center">
-
-`not just shipping features — designing systems that remain understandable under pressure`
-
+  <img src="./assets/profile/04-engineering-manifesto.svg" width="100%" alt="Engineering range and manifesto" />
 </div>
 
 ---
