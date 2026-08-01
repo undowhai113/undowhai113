@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Full technology inventory</title>
+<desc id="desc">Complete technology stack grouped by application, data and search, messaging and storage, security, platform, and automation.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset="1" stop-color="#10132f"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#8b5cf6" stroke-opacity=".045"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:"JetBrains Mono",Consolas,monospace}
+.h{fill:#f8fafc}.p{fill:#94a3b8}.a{fill:#a78bfa}
+</style>
+<rect width="1200" height="650" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="650" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="648" rx="23" fill="none" stroke="#8b5cf6" stroke-opacity=".3"/>
+<text x="42" y="48" class="m a" font-size="13" letter-spacing="3">FULL TECHNOLOGY INVENTORY</text>
+<text x="1158" y="48" text-anchor="end" class="m p" font-size="12">36 TOOLS / 6 ENGINEERING LAYERS</text>
+<rect x="42" y="72" width="1116" height="2" fill="url(#line)" opacity=".8">
+  <animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(42 105)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#7c3aed" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#7c3aed"/>
+  <circle cx="30" cy="31" r="6" fill="#7c3aed">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.80s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#7c3aed" font-size="13">01 / APPLICATION</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Next.js</text>
+  </g>
+  <g transform="translate(112.1 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">React</text>
+  </g>
+  <g transform="translate(196.1 66.0)">
+    <rect width="99.0" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="49.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">TypeScript</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Node.js</text>
+  </g>
+  <g transform="translate(112.1 110.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Express</text>
+  </g>
+  <g transform="translate(199.2 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#7c3aed" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Flask</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">INTERFACE → API → SERVICE</text>
+</g>
+<g transform="translate(425 105)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#a78bfa" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#a78bfa"/>
+  <circle cx="30" cy="31" r="6" fill="#a78bfa">
+    <animate attributeName="opacity" values=".35;1;.35" dur="1.98s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#a78bfa" font-size="13">02 / DATA &amp; SEARCH</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">MongoDB</text>
+  </g>
+  <g transform="translate(112.1 66.0)">
+    <rect width="120.9" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-opacity=".28"/>
+    <text x="60.4" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Elasticsearch</text>
+  </g>
+  <g transform="translate(243.0 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Redis</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="120.9" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-opacity=".28"/>
+    <text x="60.4" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Vector Search</text>
+  </g>
+  <g transform="translate(155.9 110.0)">
+    <rect width="99.0" height="30" rx="15" fill="#111827" stroke="#a78bfa" stroke-opacity=".28"/>
+    <text x="49.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Embeddings</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">STORE → INDEX → RETRIEVE</text>
+</g>
+<g transform="translate(808 105)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#22d3ee" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#22d3ee"/>
+  <circle cx="30" cy="31" r="6" fill="#22d3ee">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.16s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#22d3ee" font-size="13">03 / MESSAGING &amp; STORAGE</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="84.4" height="30" rx="15" fill="#111827" stroke="#22d3ee" stroke-opacity=".28"/>
+    <text x="42.2" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">RabbitMQ</text>
+  </g>
+  <g transform="translate(119.4 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#22d3ee" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">MinIO</text>
+  </g>
+  <g transform="translate(203.4 66.0)">
+    <rect width="91.7" height="30" rx="15" fill="#111827" stroke="#22d3ee" stroke-opacity=".28"/>
+    <text x="45.9" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">WebSocket</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#22d3ee" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">SSE</text>
+  </g>
+  <g transform="translate(109.0 110.0)">
+    <rect width="157.4" height="30" rx="15" fill="#111827" stroke="#22d3ee" stroke-opacity=".28"/>
+    <text x="78.7" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Document Pipelines</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">QUEUE → STREAM → PERSIST</text>
+</g>
+<g transform="translate(42 372)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#c084fc" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#c084fc"/>
+  <circle cx="30" cy="31" r="6" fill="#c084fc">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.34s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#c084fc" font-size="13">04 / SECURITY</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">OpenCTI</text>
+  </g>
+  <g transform="translate(112.1 66.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">CIS-CAT</text>
+  </g>
+  <g transform="translate(199.2 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">JWT</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">OAuth</text>
+  </g>
+  <g transform="translate(109.0 110.0)">
+    <rect width="164.7" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="82.3" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Compliance Scanning</text>
+  </g>
+  <g transform="translate(25.0 154.0)">
+    <rect width="142.8" height="30" rx="15" fill="#111827" stroke="#c084fc" stroke-opacity=".28"/>
+    <text x="71.4" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">System Hardening</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">OBSERVE → VERIFY → DEFEND</text>
+</g>
+<g transform="translate(425 372)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#818cf8" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#818cf8"/>
+  <circle cx="30" cy="31" r="6" fill="#818cf8">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.52s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#818cf8" font-size="13">05 / PLATFORM</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Docker</text>
+  </g>
+  <g transform="translate(109.0 66.0)">
+    <rect width="128.2" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="64.1" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Docker Compose</text>
+  </g>
+  <g transform="translate(247.2 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Linux</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">PM2</text>
+  </g>
+  <g transform="translate(109.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Vercel</text>
+  </g>
+  <g transform="translate(193.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#818cf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Render</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">PACKAGE → DEPLOY → OPERATE</text>
+</g>
+<g transform="translate(808 372)">
+  <rect width="350" height="235" rx="18" fill="#090d20" stroke="#38bdf8" stroke-opacity=".48"/>
+  <rect width="5" height="235" rx="3" fill="#38bdf8"/>
+  <circle cx="30" cy="31" r="6" fill="#38bdf8">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.70s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="36" class="m" fill="#38bdf8" font-size="13">06 / AUTOMATION</text>
+  <text x="322" y="35" text-anchor="end" class="m" fill="#475569" font-size="11">ACTIVE</text>
+  <g transform="translate(25.0 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Bash</text>
+  </g>
+  <g transform="translate(109.0 66.0)">
+    <rect width="99.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="49.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">PowerShell</text>
+  </g>
+  <g transform="translate(218.0 66.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Groovy</text>
+  </g>
+  <g transform="translate(25.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">PDF</text>
+  </g>
+  <g transform="translate(109.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">DOCX</text>
+  </g>
+  <g transform="translate(193.0 110.0)">
+    <rect width="74.0" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="37.0" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Excel</text>
+  </g>
+  <g transform="translate(25.0 154.0)">
+    <rect width="77.1" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="38.5" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">Testing</text>
+  </g>
+  <g transform="translate(112.1 154.0)">
+    <rect width="113.6" height="30" rx="15" fill="#111827" stroke="#38bdf8" stroke-opacity=".28"/>
+    <text x="56.8" y="20" text-anchor="middle" class="m" fill="#dbeafe" font-size="11.5">CI Workflows</text>
+  </g>
+  <text x="25" y="213" class="m" fill="#64748b" font-size="10.5" letter-spacing="1">SCRIPT → PROCESS → VALIDATE</text>
+</g>
+<circle r="4" fill="#22d3ee" filter="url(#glow)">
+  <animateMotion dur="6s" repeatCount="indefinite" path="M42,72 H1158"/>
+</circle>
+</svg>

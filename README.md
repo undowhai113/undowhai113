@@ -38,18 +38,9 @@
   <img src="./assets/profile/03-toolkit-matrix.svg" width="100%" alt="Toolkit matrix — application, data, messaging, security, platform, and automation" />
 </div>
 
-<details>
-<summary><b>Open the full technology inventory</b></summary>
-<br />
-
-`Application` — Next.js · React · TypeScript · Node.js · Express · Flask<br />
-`Data & Search` — MongoDB · Elasticsearch · Redis · Vector Search · Embeddings<br />
-`Messaging & Storage` — RabbitMQ · MinIO · WebSocket · SSE · Document Pipelines<br />
-`Security` — OpenCTI · CIS-CAT · JWT · OAuth · Compliance Scanning · System Hardening<br />
-`Platform` — Docker · Docker Compose · Linux · PM2 · Vercel · Render<br />
-`Automation` — Bash · PowerShell · Groovy · PDF/DOCX/Excel · Testing · CI Workflows
-
-</details>
+<div align="center">
+  <img src="./assets/profile/03b-technology-inventory.svg" width="100%" alt="Full technology inventory — application, data, messaging, security, platform, and automation" />
+</div>
 
 ---
 
