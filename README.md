@@ -35,6 +35,29 @@
 ## `03 / TOOLKIT`
 
 <div align="center">
+
+### `ICON DECK / CORE STACK`
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,flask,python,java&theme=dark&perline=8" alt="Application and runtime stack icons" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis,elasticsearch,rabbitmq,docker,linux,bash,powershell,git,github,vercel&theme=dark&perline=11" alt="Data, messaging, platform, and tooling icons" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/OpenCTI-111827?style=for-the-badge&logoColor=A78BFA" alt="OpenCTI" />
+<img src="https://img.shields.io/badge/MinIO-111827?style=for-the-badge&logo=minio&logoColor=C72E49" alt="MinIO" />
+<img src="https://img.shields.io/badge/CIS--CAT-111827?style=for-the-badge&logoColor=A78BFA" alt="CIS-CAT" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=opensearch&logoColor=67E8F9" alt="RAG systems" />
+<img src="https://img.shields.io/badge/WebSocket-111827?style=for-the-badge&logo=socketdotio&logoColor=F8FAFC" alt="WebSocket" />
+<img src="https://img.shields.io/badge/SSE-111827?style=for-the-badge&logoColor=67E8F9" alt="Server-Sent Events" />
+
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/profile/03-toolkit-matrix.svg" width="100%" alt="Toolkit matrix — application, data, messaging, security, platform, and automation" />
 </div>
 
