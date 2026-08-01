@@ -1,108 +1,85 @@
 <div align="center">
-  
-# 👋 Hi there, I'm Hai!
 
-### Full-Stack Developer | AI Integration Specialist
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:312E81,100:7C3AED&height=220&section=header&text=NGUYEN%20VAN%20HAI&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=37&desc=BUILDING%20SYSTEMS%20THAT%20THINK%20%C2%B7%20SCALE%20%C2%B7%20DEFEND&descAlignY=58&descSize=13" alt="Nguyen Van Hai — Backend, Security, AI and Creative Engineering" />
 
-[![GitHub undowhai113](https://img.shields.io/github/followers/undowhai113?label=follow&style=social)](https://github.com/undowhai113)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4F46E5?style=flat&logo=googlechrome&logoColor=white)](https://undowhai.id.vn)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hải-nguyễn-văn-481066381)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Backend+Engineering+%C3%97+Security+%C3%97+Applied+AI;Distributed+systems%2C+real-time+flows%2C+and+secure+products;Engineering+with+precision.+Creating+with+intent." alt="Typing introduction" />
+</a>
+
+<p>
+  <a href="https://undowhai.id.vn"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hải-nguyễn-văn-481066381"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+  <a href="https://github.com/undowhai113"><img src="https://img.shields.io/badge/FOLLOW-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / PROFILE`
+
+> I build at the intersection of **backend engineering**, **cybersecurity**, **AI systems**, and **creative development** — translating complex ideas into reliable products, resilient infrastructure, and intentional digital experiences.
+
+From production APIs and real-time workflows to threat-intelligence platforms and retrieval pipelines, I care about how every component behaves **as one complete system**, not merely how each part works in isolation.
+
+```text
+hai@systems:~$ whoami
+backend engineer / security builder / applied-ai explorer
+
+hai@systems:~$ operating_from
+Vietnam  ·  UTC+7
+
+hai@systems:~$ mission
+ship useful systems with technical depth and a distinct point of view
+```
+
+---
+
+## `02 / CURRENT ORBIT`
+
+- **Backend & distributed services** — APIs, authentication, event-driven workflows, real-time communication, and service orchestration.
+- **Security engineering** — threat-intelligence platforms, compliance automation, secure architecture, and practical security tooling.
+- **Applied AI systems** — RAG, embeddings, vector search, document intelligence, and model-agnostic LLM integration.
+- **Creative engineering** — expressive web experiences where interaction, motion, typography, and performance work together.
+
+<p align="center">
+  <code>BUILD</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>OBSERVE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SECURE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>REFINE</code>
+</p>
+
+---
+
+## `03 / TOOLKIT`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Currently
-- 💼 Full-Stack Developer
-- 🌐 Portfolio: [undowhai.id.vn](https://undowhai.id.vn)
-- 🤖 AI Integration Specialist
-- 🛡️ Security Tools Builder
-- 📍 Vietnam 🇻🇳
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Passionate About
-- ⚡ Enterprise Applications
-- 🧠 RAG Systems & Vector Search
-- 🔐 Security & Compliance
-- 🌐 Real-time Systems
-
-</td>
-</tr>
-</table>
-
-**🔭 Tech Focus:** Next.js • TypeScript • MongoDB • Google Gemini API • Docker
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,nextjs,react,tailwind,nodejs,express,flask,mongodb,redis,docker,linux,bash,git,github,vercel&perline=9" alt="Core engineering toolkit" />
 
 </div>
 
----
+### Systems I work with
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,vite" alt="Frontend Skills" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" alt="Backend Skills" />
-
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,docker,git,vscode,github,vercel" alt="Database & Tools" />
-
-</div>
+- **Application layer:** `Next.js` · `React` · `Node.js` · `Express` · `Flask`
+- **Data & search:** `MongoDB` · `Elasticsearch` · `Redis` · `Vector Search`
+- **Messaging & storage:** `RabbitMQ` · `MinIO` · `WebSocket` · `SSE`
+- **Security platform:** `OpenCTI` · `CIS-CAT` · compliance scanning · authentication & authorization
+- **Platform engineering:** `Docker` · `Docker Compose` · `PM2` · `Vercel` · `Render`
+- **AI engineering:** retrieval pipelines · embeddings · document processing · provider-agnostic LLM integration
 
 ---
 
-## 💼 Core Competencies
+## `04 / ENGINEERING RANGE`
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-### 💻 Full-Stack Development
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, Python, Flask
-- **UI Libraries:** shadcn/ui, Radix UI, Material-UI
-- **State Management:** React Hooks, Context API
-- **Responsive Design & Accessibility**
+**Product Engineering**  
+Full-stack delivery, RESTful APIs, responsive interfaces, accessible UI systems, testing, and production deployment.
 
-### 🤖 AI & Modern Tech
-- **AI Integration:** Google Gemini API
-- **RAG Systems:** Vector Search, Embeddings
-- **Database:** MongoDB, MongoDB Atlas
-- **Real-time:** WebSocket, SSE
-- **Document Processing:** PDF, DOCX, Excel
+**Security & Infrastructure**  
+JWT, OAuth, bcrypt, containerized services, threat-intelligence infrastructure, system hardening, and compliance workflows.
 
-    </td>
-    <td valign="top" width="50%">
-      
-### 🔐 Security & DevOps
-- **Security Tools:** CIS-CAT, Compliance Scanning
-- **Authentication:** JWT, bcrypt, OAuth
-- **DevOps:** Docker, Docker Compose
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Render, PM2
+**Data, Documents & Automation**  
+PDF, DOCX, and spreadsheet processing; search and retrieval pipelines; scripting with Bash, PowerShell, and Groovy.
 
-### ⚙️ Additional Skills
-- **API Development:** RESTful APIs, Express
-- **Testing:** Jest, Supertest
-- **Build Tools:** Vite, Webpack, TypeScript
-- **Languages:** TypeScript, JavaScript, Python, Java
-- **Scripting:** Bash, PowerShell, Groovy
-
-    </td>
-  </tr>
-</table>
+**How I think**  
+Security is a design constraint. Performance is a product feature. Infrastructure is part of the application. Good engineering should feel deliberate.
 
 ---
 
