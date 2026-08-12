@@ -80,8 +80,8 @@
 <div align="center">
 
 <a href="https://github.com/undowhai113">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=undowhai113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=undowhai113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=undowhai113&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=undowhai113&theme=tokyonight"/>
 </a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undowhai113&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
