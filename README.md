@@ -161,6 +161,7 @@
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:2AC3DE,70:7AA2F7,100:BB9AF7&height=110&section=footer" width="100%" alt="Footer Wave" />
+<!-- Abyssal Orca Pod Hunting Bioluminescent Bait-Ball Footer -->
+<img src="./assets/profile/footer-orca-hunt.svg" width="100%" alt="Abyssal Orca Pod Hunting Bioluminescent Fish" />
 
 </div>
